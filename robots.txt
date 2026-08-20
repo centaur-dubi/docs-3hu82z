@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-2tqg9e.spanishproapp.com/sitemap.xml
